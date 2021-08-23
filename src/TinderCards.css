@@ -30,5 +30,8 @@
   position: absolute;
   bottom: 0;
   margin: 10px;
-  color: black;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 30px;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
 }
